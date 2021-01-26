@@ -1,6 +1,4 @@
 # Kwick Browser
-<br>
-<br>
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/01ce263113c6405fa5e2b643d8fde0e2)](https://www.codacy.com/gh/CyberSafe-Labs/Kwick-Browser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyberSafe-Labs/Kwick-Browser&amp;utm_campaign=Badge_Grade)
 <br>
 <br>
