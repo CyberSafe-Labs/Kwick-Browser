@@ -12,3 +12,6 @@ Commercial license is available for free at www.cybersafe.ezyro.com/license/
 <br>
 Support:
 kwickbrowser@cybersafe.ezyro.com
+<br>
+<br>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser?ref=badge_large)
