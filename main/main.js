@@ -12,12 +12,12 @@ const MenuItem = electron.MenuItem
 const crashReporter = electron.crashReporter
 
 crashReporter.start({
-  submitURL: 'https://minbrowser.org/',
+  submitURL: 'http://www.kwickbrowser.cybersafe.ezyro.com/',
   uploadToServer: false
 })
 
 if (process.argv.some(arg => arg === '-v' || arg === '--version')) {
-  console.log('Min: ' + app.getVersion())
+  console.log('Kwick Browser: ' + app.getVersion())
   console.log('Chromium: ' + process.versions.chrome)
   process.exit()
 }
