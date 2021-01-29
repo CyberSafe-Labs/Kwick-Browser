@@ -17,7 +17,7 @@ crashReporter.start({
 })
 
 if (process.argv.some(arg => arg === '-v' || arg === '--version')) {
-  console.log('Kwick Browser: ' + app.getVersion())
+  console.log('Kwick Browser: 1.0.0 '
   console.log('Chromium: ' + process.versions.chrome)
   process.exit()
 }
