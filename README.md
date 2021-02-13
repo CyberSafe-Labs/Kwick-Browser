@@ -32,4 +32,25 @@ Depending on the platform you are building on, you may need to install additiona
 - To build on Windows, you'll need to install Visual Studio. Once it's installed, you may also need to run `npm config set msvs_version 2019` (or the appropriate version).
 
 <br>
+### Contributing Translations
+
+#### Adding a new language
+
+- Find the language code that goes with your language from [this list](https://electron.atom.io/docs/api/locales/#locales).
+- In the `localization/languages` directory, create a new file, and name it "[your language code].json".
+- Open your new file, and copy the contents of the <a href="https://github.com/CyberSafe-Labs/Kwick-Browser/blob/master/localization/languages/en-US.json">localization/languages/en-US.json</a> file into your new file.
+- Change the "identifier" field in the new file to the language code from step 1.
+- Inside the file, replace each English string in the right-hand column with the equivalent translation.
+- (Optional) See your translations live by following the [development instructions](#installing) above. Kwick will display in the same language as your operating system, so make sure your computer is set to the same language that you're translating.
+- That's it! Make a pull request with your changes.
+
+#### Updating an existing language
+
+- Find the language file for your language in the `localization/languages` directory.
+- Look through the file for any items that have a value of "null", or that have a comment saying "missing translation".
+- For each of these items, look for the item with the same name in the `en-US.json` file.
+- Translate the value from the English file, replace "null" with your translation, and remove the "missing translation" comment.
+- Make a pull request with the updated file.
+
+<br>
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser?ref=badge_large)
