@@ -32,7 +32,7 @@ Depending on the platform you are building on, you may need to install additiona
 - To build on Windows, you'll need to install Visual Studio. Once it's installed, you may also need to run `npm config set msvs_version 2019` (or the appropriate version).
 
 <br>
-###Contributing Translations
+# Contributing Translations
 
 ### Adding a new language
 
