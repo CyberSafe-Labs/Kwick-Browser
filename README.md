@@ -34,7 +34,7 @@ Depending on the platform you are building on, you may need to install additiona
 <br>
 ### Contributing Translations
 
-#### Adding a new language
+### Adding a new language
 
 - Find the language code that goes with your language from [this list](https://electron.atom.io/docs/api/locales/#locales).
 - In the `localization/languages` directory, create a new file, and name it "[your language code].json".
