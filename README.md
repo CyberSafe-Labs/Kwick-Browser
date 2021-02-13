@@ -51,4 +51,5 @@ Depending on the platform you are building on, you may need to install additiona
 - For each of these items, look for the item with the same name in the `en-US.json` file.
 - Translate the value from the English file, replace "null" with your translation, and remove the "missing translation" comment.
 - Make a pull request with the updated file.
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCyberSafe-Labs%2FKwick-Browser?ref=badge_large)
