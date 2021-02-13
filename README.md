@@ -20,7 +20,7 @@ If you want to develop Kwick:
 - First Obtain A <a href="http://www.cybersafe.ezyro.com/license">Commercial License</a>
 - Install [Node](https://nodejs.org).
 - Run `npm install` to install dependencies.
-- Start Min in development mode by running `npm run start`.
+- Start Kwick in development mode by running `npm run start`.
 - After you make changes, you can press `ctrl+r` twice to restart the browser.
 <br>
 In order to build Kwick from source, follow the installation instructions above, then use the following command to create binaries:
