@@ -17,7 +17,7 @@ kwickbrowser@cybersafe.ezyro.com
 # Developing
 If you want to develop Kwick:
 
-- First Obtain A <a href="www.cybersafe.ezyro.com/license">Commercial License</a>
+- First Obtain A <a href="http://www.cybersafe.ezyro.com/license">Commercial License</a>
 - Install [Node](https://nodejs.org).
 - Run `npm install` to install dependencies.
 - Start Min in development mode by running `npm run start`.
