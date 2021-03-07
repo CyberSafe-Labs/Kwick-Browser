@@ -5,13 +5,13 @@ Meet Kwick, a fast open source browser.
 Kwick Browser is an open-source web browser based on Min.
 <br>
 <br>
-## What is it written in?
+What is it written in?
 Kwick Browser is written in JavaScript, HTML and CSS.
 <br>
 It uses Electron Under the hood, and also because it is based on Electron it uses Chromium.
 <br>
 <br>
-## Credits
+Credits
 Developed By Aditya Sunil Patil, Senior Developer at CyberSafe Labs, Inc.
 <br>
 <br>
